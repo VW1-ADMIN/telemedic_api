@@ -1,0 +1,13 @@
+{
+  "id": "73352a87-298d-4a69-bf7d-c6b053a08b0e",
+  "userId": "test",
+  "modality": "mri",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251113/img/test_251113_mri_2.jpeg",
+  "analysis": {
+    "result": "신경교종(Ganglioglioma)",
+    "probability": 86.74,
+    "confidence": 86.74,
+    "findings": "MRI 모델이 '신경교종(Ganglioglioma)'으로 진단했습니다."
+  },
+  "date": "251113"
+}

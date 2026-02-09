@@ -1,0 +1,13 @@
+{
+  "id": "a93b37e8-956e-4c86-b737-bb9be5a5df96",
+  "userId": "test",
+  "modality": "ct",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251113/img/test_251113_ct_14.png",
+  "analysis": {
+    "result": "정상(normal)",
+    "probability": 98.5,
+    "confidence": 98.5,
+    "findings": "CT 모델이 '정상(normal)'으로 진단했습니다."
+  },
+  "date": "251113"
+}

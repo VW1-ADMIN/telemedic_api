@@ -1,0 +1,13 @@
+{
+  "id": "254c4082-81f9-482b-882e-8aed796a5969",
+  "userId": "test",
+  "modality": "ct",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251214/img/test_251214_ct_2.jpg",
+  "analysis": {
+    "result": "선암(adenocarcinoma)",
+    "probability": 70.72,
+    "confidence": 70.72,
+    "findings": "CT 모델이 '선암(adenocarcinoma)'으로 진단했습니다."
+  },
+  "date": "251214"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "7534cfdf-2467-4183-af62-6584c5c7b34c",
+  "userId": "test",
+  "modality": "xray",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251114/img/test_251114_xray_2.jpeg",
+  "analysis": {
+    "result": "바이러스성 폐렴(Viral)",
+    "probability": 71.64,
+    "confidence": 71.64,
+    "findings": "X-Ray 모델이 '바이러스성 폐렴(Viral)'으로 진단했습니다."
+  },
+  "date": "251114"
+}

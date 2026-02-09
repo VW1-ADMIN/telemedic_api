@@ -1,0 +1,13 @@
+{
+  "id": "c1e78f42-4c61-4c15-a212-46aa49c4e726",
+  "userId": "export_test",
+  "modality": "mri",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/export_test/260209/img/export_test_260209_mri_1.jpg",
+  "analysis": {
+    "result": "Meningioma",
+    "probability": 92.5,
+    "confidence": 92.5,
+    "findings": "The MRI model diagnosed it as 'Meningioma'."
+  },
+  "date": "260209"
+}

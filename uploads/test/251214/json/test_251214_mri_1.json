@@ -1,0 +1,13 @@
+{
+  "id": "47b19f40-7f3e-401d-99da-98571bdfd174",
+  "userId": "test",
+  "modality": "mri",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251214/img/test_251214_mri_1.jpeg",
+  "analysis": {
+    "result": "수막종(Meningioma)",
+    "probability": 99.98,
+    "confidence": 99.98,
+    "findings": "MRI 모델이 '수막종(Meningioma)'으로 진단했습니다."
+  },
+  "date": "251214"
+}

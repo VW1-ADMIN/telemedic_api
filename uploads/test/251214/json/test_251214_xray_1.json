@@ -1,0 +1,13 @@
+{
+  "id": "52689dc5-81f6-4764-898e-8f8859766c07",
+  "userId": "test",
+  "modality": "xray",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251214/img/test_251214_xray_1.jpeg",
+  "analysis": {
+    "result": "세균성 폐렴(Bacterial)",
+    "probability": 96.86,
+    "confidence": 96.86,
+    "findings": "X-Ray 모델이 '세균성 폐렴(Bacterial)'으로 진단했습니다."
+  },
+  "date": "251214"
+}

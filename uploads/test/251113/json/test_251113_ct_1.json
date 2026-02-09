@@ -1,0 +1,13 @@
+{
+  "id": "4eeee15d-f501-4477-8ec2-2a9a5540eb1d",
+  "userId": "test",
+  "modality": "ct",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251113/img/test_251113_ct_1.jpeg",
+  "analysis": {
+    "result": "대세포암(large.cell.carcinoma)",
+    "probability": 42.26,
+    "confidence": 42.26,
+    "findings": "CT 모델이 '대세포암(large.cell.carcinoma)'으로 진단했습니다."
+  },
+  "date": "251113"
+}

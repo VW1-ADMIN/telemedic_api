@@ -1,0 +1,13 @@
+{
+  "id": "7eb03f37-8e5c-4f00-9726-3c308d054e2d",
+  "userId": "test",
+  "modality": "mri",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/251113/img/test_251113_mri_4.jpeg",
+  "analysis": {
+    "result": "육아종(Granuloma)",
+    "probability": 99.93,
+    "confidence": 99.93,
+    "findings": "MRI 모델이 '육아종(Granuloma)'으로 진단했습니다."
+  },
+  "date": "251113"
+}

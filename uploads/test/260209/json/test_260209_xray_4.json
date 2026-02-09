@@ -1,0 +1,13 @@
+{
+  "id": "ae699b95-3278-486d-b0c8-4c53f6cbaa3e",
+  "userId": "test",
+  "modality": "xray",
+  "imageUrl": "https://vw1-telemedic.s3.us-east-1.amazonaws.com/api/test/260209/img/test_260209_xray_4.jpg",
+  "analysis": {
+    "result": "Viral",
+    "probability": 53.38,
+    "confidence": 53.38,
+    "findings": "The X-Ray model diagnosed it as 'Viral'."
+  },
+  "date": "260209"
+}
